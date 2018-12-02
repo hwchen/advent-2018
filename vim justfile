@@ -1,3 +1,0 @@
-download-input day:
-    curl https://adventofcode.com/2018/day/{{day}}/input > input/{{day}}.txt
-
